@@ -8,4 +8,4 @@
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
 
-![nootz's Github stats](https://github-readme-stats.vercel.app/api?username=nootz1999&show_icons=true&theme=radical)
+![nootz1999's Github stats](https://github-readme-stats.vercel.app/api?username=nootz1999&show_icons=true&theme=radical)
