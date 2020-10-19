@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="shinchan3.gif" />
 
 ## Hi there, this is nootz!
 
@@ -20,6 +19,6 @@
 - SQL
 
 
-
+<img align="right" alt="GIF" src="shinchan3.gif" />
 
 ![nootz1999's Github stats](https://github-readme-stats.vercel.app/api?username=nootz1999&show_icons=true&theme=radical)
