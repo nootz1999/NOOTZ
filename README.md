@@ -5,6 +5,13 @@
 - Food Lover
 - And yeah..I love shinchan
 
+### Language & Skills
+- Python
+- C
+- Machine Learning 
+- Web Development
+- SQL
+
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
 
