@@ -25,4 +25,7 @@
 
 
 
+
+## &#x1f4c8; GitHub Stats
+
 ![nootz1999's Github stats](https://github-readme-stats.vercel.app/api?username=nootz1999&show_icons=true&theme=radical)
