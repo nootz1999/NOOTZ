@@ -2,8 +2,7 @@
 
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
-## Hi there, this is nootz!  <img alt="img" src="comet.png" width="70"/>
-
+## Hi there, this is nootz!   
 - I’m currently working on: Python and Machine Learning.
 - Love Travelling
 - Food Lover
