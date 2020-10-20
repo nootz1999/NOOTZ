@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
-## Hi there, this is nootz!  <img align="right" alt="img" src="comet.png" />
+## Hi there, this is nootz!  <img alt="img" src="comet.png" width="70"/>
 
 - I’m currently working on: Python and Machine Learning.
 - Love Travelling
@@ -26,7 +26,7 @@
 
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 
 <a href="https://github.com/nootz1999/nootz1999">
