@@ -31,7 +31,7 @@
 
 
 <details>
-##<summary>GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
 
 <a href="https://github.com/nootz1999/nootz1999">
