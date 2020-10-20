@@ -30,8 +30,7 @@
 
 
 
-<details>
-<summary>GitHub Stats</summary>
+##GitHub Stats 
 
 
 <a href="https://github.com/nootz1999/nootz1999">
@@ -40,4 +39,4 @@
 
 ![nootz1999's Github stats](https://github-readme-stats.vercel.app/api?username=nootz1999&show_icons=true&theme=radical)
 
-</details>
+ 
