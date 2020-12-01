@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
-## Hi there, this is nootz!   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nootz1999.nootz1999)
+## Hi there, this is Nutan Kushwah!   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nootz1999.nootz1999)
 - I’m currently working on: Python and Machine Learning.
 - Love Travelling
 - Food Lover
