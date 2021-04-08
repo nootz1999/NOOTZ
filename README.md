@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
 ## Hi there, this is Nutan Kushwah!   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nootz1999.nootz1999)
-- I’m currently focusing on: Python and DSA
-- Love Travelling
-- Food Lover
+- Currently focusing on: Python and DSA
+ 
+ 
 
 
 
@@ -16,8 +16,8 @@
 ###                      Language & Skills
 
 - Python
-- DSA
-- C
+- Machine Learning
+- Deep Learning
 - Web Development
 
 
