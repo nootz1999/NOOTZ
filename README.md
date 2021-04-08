@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
 ## Hi there, this is Nutan Kushwah!   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nootz1999.nootz1999)
-- Currently focusing on: Python and DSA
+- Currently focusing on: Deep Learning
  
  
 
