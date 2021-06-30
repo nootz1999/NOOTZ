@@ -15,8 +15,6 @@
 ###                      Language & Skills
 
 - Python
-- Machine Learning
-- Deep Learning
 - Web Development
 
 
