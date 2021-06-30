@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="shinchan3.gif" />
 
-## Hi there!   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nootz1999.nootz1999)
+## Hi there! this is Nutan Kushwah.   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nootz1999.nootz1999)
  
  
 
@@ -15,8 +15,8 @@
 ###                      Language & Skills
 
 - Python
-- Web Development
-
+- Front-end
+- Back-end
 
 
 
