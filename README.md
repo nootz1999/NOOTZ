@@ -12,12 +12,14 @@
 
 
 
-###                      Language & Skills
+###                      Skills & Projects
 
 - Python
 - Front-end
 - Back-end
-
+- https://nootz1999.github.io/Front-end_TRAVALO/
+- https://nootz1999.github.io/Javascript_Clock/
+- https://nootz1999.github.io/FRONT-END-OF-A-FITNESS-SITE/
 
 
  
