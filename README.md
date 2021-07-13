@@ -17,6 +17,7 @@
 - Python
 - Front-end
 - Back-end
+- https://nootz1999.github.io/Web-Fair_Bootstrap/
 - https://nootz1999.github.io/Front-end_TRAVALO/
 - https://nootz1999.github.io/FoodOrder_Web-D/
 - https://nootz1999.github.io/Javascript_Clock/
