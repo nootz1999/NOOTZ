@@ -14,7 +14,7 @@
 
 ###                      Skills & Projects
 
-- Python
+- Python 
 - Front-end
 - Back-end
 - https://nootz1999.github.io/Web-Fair_Bootstrap/
@@ -22,6 +22,7 @@
 - https://nootz1999.github.io/FoodOrder_Web-D/
 - https://nootz1999.github.io/Javascript_Clock/
 - https://nootz1999.github.io/FRONT-END-OF-A-FITNESS-SITE/
+- https://nootz1999.github.io/Cards_Responsive/
 
 
  
